@@ -20,7 +20,7 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
 -   A → D
 -   B → E
 -   C → F
--   ...
+-   ... and so on.
 
 ## Installation
 
